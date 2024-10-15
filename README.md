@@ -7,6 +7,10 @@ This repository contains the comprehensive report for the New Website Launch Tra
 ## Tools Used: 
 Google Analytics, SQL, Excel.
 
+## Data Collection
+
+The data used in this report is based on real scenarios from my previous company. However, the figures have been modified to maintain confidentiality.
+
 ## Devices: 
 - After the new site launch, the highest conversion on desktop (excluding the first day) was on March 30, 2018 (5.14%).
 - The highest mobile conversion occurred on March 31, 2018 (3.68%), while the first day saw a 2.7% conversion.
