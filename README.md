@@ -2,7 +2,7 @@
 
 This repository contains the comprehensive report for the New Website Launch Tracking Dashboard, analyzing performance metrics from March 26 to April 1, 2018. Following the launch of the new site design, this report examines key conversion rates across devices, browsers, sales trends, pageviews, and site speed.
 
-[<img src='https://sharminhossainbd.github.io/Profitability-of-Category-Wise-Products/Category_Products.jpg'>](https://sharminhossainbd.github.io/Profitability-of-Category-Wise-Products/Category_Products.jpg)
+[<img src='https://sharminhossainbd.github.io/New-Website-Launch-Tracking-Dashboard/Site.jpg'>](https://sharminhossainbd.github.io/New-Website-Launch-Tracking-Dashboard/Site.jpg')
 
 ## Tools Used: 
 Google Analytics, SQL, Excel.
